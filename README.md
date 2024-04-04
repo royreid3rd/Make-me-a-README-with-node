@@ -29,12 +29,6 @@ To use this README Generator:
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
-## Questions
+## Video Link 
 
-If you have any questions or need support, feel free to reach out:
-
-- Email: [example@example.com](mailto:example@example.com)
-
----
-
-Feel free to customize this README template as needed for your specific project. Happy coding!
+[Video of project working](https://drive.google.com/file/d/1FJAYjJPuwH3y1ENVfHfUnAoL_rlaWiyG/view)
